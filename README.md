@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">📊  Estatísticas:</h3>
+<h2 align="left">📊  Estatísticas:</h2>
 
 ###
 
