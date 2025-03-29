@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="left">👩‍💻  Mayra Matos</h1>
 
-<!--
-**mayramatos/mayramatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://www.linkedin.com/in/mayra-matos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mayrarmatos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/maahmts/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h1 align="left"></h1>
+
+###
+
+<p align="left">Meu nome é Mayra Cristine Ribeiro Matos, tenho 28 anos e sou natural de Minas Gerais. Sou formada em Publicidade e Propaganda e atualmente estou cursando Ciência da Computação. Sou apaixonada por tecnologia e desenvolvimento web, áreas que me desafiam a aprender e crescer constantemente. Tenho experiência com web design, desenvolvimento e SEO, e estou sempre explorando novas tecnologias para ampliar meu conhecimento. Determinada e movida por desafios, estou construindo uma trajetória na área de TI, focando em desenvolvimento web e soluções criativas para problemas reais.</p>
+
+###
+
+<h2 align="left">💻 Linguagens e Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<h3 align="left">📊  Estatísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayramatos&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayramatos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
